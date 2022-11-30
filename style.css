@@ -2,13 +2,23 @@ body {
     background-color: beige;
     font-family: 'Courier New', Courier, monospace ;
     font-size: 15px;
-    text-align: center;
+    color:darkseagreen;
+}
+.title{
+    font-family: "Lucinda Console", monaco, monospace;
+    color: cadetblue;
 }
 
-#main-page {
-    font-family: "Lucinda Console", monaco, monospace;
+#main-title {
+    font-size: 50px;
+}
+
+.sub.title {
     font-size: 30px;
-    color: cadetblue;
+}
+
+.main.title {
+    font-size: 40px;
 }
 
 img {
@@ -16,6 +26,7 @@ img {
     width: auto;
 }
 
-.left {
-    text-align: left;
+.description {
+    font-weight: bold;
 }
+
