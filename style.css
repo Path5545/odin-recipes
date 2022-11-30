@@ -1,0 +1,11 @@
+body {
+    background-color: beige;
+    font-family: 'Courier New', Courier, monospace ;
+    font-size: 15px;
+}
+
+#main-page {
+    font-family: "Lucinda Console", monaco, monospace;
+    font-size: 30px;
+    color: cadetblue;
+}
